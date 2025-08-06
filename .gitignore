@@ -1,0 +1,11 @@
+# Arduino build files
+*.o
+*.bin
+build/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Environment
+.env
